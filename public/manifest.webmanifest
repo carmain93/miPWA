@@ -24,6 +24,18 @@
       "purpose": "maskable any"
     },
     {
+      "src": "icons/juego fondo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "icons/fondo-inicio.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
       "src": "icons/icon-128x128.png",
       "sizes": "128x128",
       "type": "image/png",
