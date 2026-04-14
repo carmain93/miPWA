@@ -12,6 +12,18 @@
       "purpose": "maskable any"
     },
     {
+      "src": "icons/fondo-nosotros.jpeg",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "icons/fondo-juego.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
       "src": "icons/icon-96x96.png",
       "sizes": "96x96",
       "type": "image/png",

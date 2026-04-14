@@ -14,7 +14,7 @@
 .hero {
   position: relative;
   height: 430px;
-  background-image: url('/assets/img/fondo-juego.jpg');
+  background-image: url('/icons/fondo-juego.png');
   background-size: cover;
   background-position: center;
   overflow: hidden;

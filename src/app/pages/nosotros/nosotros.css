@@ -14,7 +14,7 @@
 .hero {
   position: relative;
   height: 420px;
-  background-image: url('/assets/img/fondo-nosotros.jpg');
+  background-image: url('/icons/fondo-nosotros.jpeg');
   background-size: cover;
   background-position: center;
   overflow: hidden;
