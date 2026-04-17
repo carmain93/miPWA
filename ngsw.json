@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1776439357730,
+  "timestamp": 1776439826887,
   "index": "/miPWA/index.csr.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "/miPWA/favicon.ico",
         "/miPWA/index.csr.html",
         "/miPWA/index.html",
-        "/miPWA/main-U7PPGGJN.js",
+        "/miPWA/main-X3Z5B5WD.js",
         "/miPWA/manifest.webmanifest",
         "/miPWA/styles-ZJGHR3A3.css"
       ],
@@ -67,9 +67,9 @@
     "/miPWA/icons/logo.png": "18ccb0c571cbf501fa4c8ebbb982f737bb971a58",
     "/miPWA/icons/menuinicial.png": "c1d2e31fa644fa3be0fe3e0e05364c2683f840a7",
     "/miPWA/icons/peleajuego.png": "ca831bb8fef3dc97870fea72910d94d6555927de",
-    "/miPWA/index.csr.html": "60ce630041eb3421f42912c889527276a8e0a16a",
-    "/miPWA/index.html": "976f9831902e133fbe4da62a3959a7c6e154d6ca",
-    "/miPWA/main-U7PPGGJN.js": "ba0f102cc196d4b986572747a19f67f0a298280c",
+    "/miPWA/index.csr.html": "8a7faa8f252c726d0b4e49a3dd9b28359eb3731b",
+    "/miPWA/index.html": "a1ccaa8d9d3ed6495b52ccc8ba84f15bb88badd7",
+    "/miPWA/main-X3Z5B5WD.js": "b3cc279c9c21c0eb979f83de8538723f7b895f00",
     "/miPWA/manifest.webmanifest": "29fb8e06036141e7301f3a4daab24992d033e0b6",
     "/miPWA/styles-ZJGHR3A3.css": "dd1be8215e1448e0fa586896f2a63354384155ff"
   },
