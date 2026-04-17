@@ -13,7 +13,7 @@
           "/manifest.webmanifest",
           "/*.css",
           "/*.js",
-          "/download/Build_Windows.zip"
+          "/download/LEAF_HISTORIES.zip"
         ]
       }
     },

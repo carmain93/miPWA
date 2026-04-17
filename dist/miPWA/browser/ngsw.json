@@ -1,0 +1,95 @@
+{
+  "configVersion": 1,
+  "timestamp": 1776407037984,
+  "index": "/index.csr.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.csr.html",
+        "/index.html",
+        "/main-U7PPGGJN.js",
+        "/manifest.webmanifest",
+        "/styles-ZJGHR3A3.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/downloads/LEAF_HISTORIES.zip",
+        "/icons/fondo-inicio.png",
+        "/icons/fondo-juego.png",
+        "/icons/fondo-nosotros.jpeg",
+        "/icons/icon-128x128.png",
+        "/icons/icon-144x144.png",
+        "/icons/icon-152x152.png",
+        "/icons/icon-192x192.png",
+        "/icons/icon-384x384.png",
+        "/icons/icon-512x512.png",
+        "/icons/icon-72x72.png",
+        "/icons/icon-96x96.png",
+        "/icons/juego fondo.png",
+        "/icons/logo.png",
+        "/icons/menuinicial.png",
+        "/icons/peleajuego.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/downloads/LEAF_HISTORIES.zip": "350a9d96a4dc50336d59745626fd4f3c407e0c72",
+    "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/icons/fondo-inicio.png": "c4ffe25afa07865ef2ab9fe51cee25117601a8a6",
+    "/icons/fondo-juego.png": "f38d756aad6d29eb0d8cc483f18dc6f27798ade6",
+    "/icons/fondo-nosotros.jpeg": "6cffb76554f03c716a4d04ee32ad567b712ff4bb",
+    "/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/icons/juego fondo.png": "9b53c13a2f4cde1897c0c568e699a867a11c11a9",
+    "/icons/logo.png": "18ccb0c571cbf501fa4c8ebbb982f737bb971a58",
+    "/icons/menuinicial.png": "c1d2e31fa644fa3be0fe3e0e05364c2683f840a7",
+    "/icons/peleajuego.png": "ca831bb8fef3dc97870fea72910d94d6555927de",
+    "/index.csr.html": "242f51c61ba74ed17c021bc803553480e3893848",
+    "/index.html": "d23cf96261829b2f8aac8a80bf7102841d01e28a",
+    "/main-U7PPGGJN.js": "ba0f102cc196d4b986572747a19f67f0a298280c",
+    "/manifest.webmanifest": "29fb8e06036141e7301f3a4daab24992d033e0b6",
+    "/styles-ZJGHR3A3.css": "dd1be8215e1448e0fa586896f2a63354384155ff"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
